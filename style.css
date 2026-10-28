@@ -1,0 +1,17 @@
+,text-white{
+    color: white;
+}
+
+.bg-partenaires{
+    background-image:url(images/bg-image-2.webp);
+}
+.bg-hero{
+    background-image:url(images/bg-image-hero.webp) ;
+   background-size: cover; height: 500px;
+}
+,bouton-noir{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+}
